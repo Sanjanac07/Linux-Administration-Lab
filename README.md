@@ -37,3 +37,9 @@ It’s a perfect beginner-level project to practice **C++ syntax and logic** whi
 ```bash
 git clone https://github.com/<your-username>/simple-calculator-cpp.git
 cd simple-calculator-cpp
+
+Step 2: Compile the Program
+g++ calculator.cpp -o calculator
+
+Step 3: Run the Program
+./calculator
